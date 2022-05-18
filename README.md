@@ -1,1 +1,2 @@
 # Programacion-II-Ejemplos
+## Este repositorio contiene los ejemplos resueltos del manual de ejercicios de la materia de Programacion II. Este es en base al programa de la materia departe de la Universidad Autonoma de Aguascalientes y su plan de estudio para la carrera de Sistemas Computacionales.
